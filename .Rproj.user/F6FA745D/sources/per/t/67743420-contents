@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Steven M. Smith"
+  site-url: https://www.stevenmsmith.org/
+  google-analytics: G-PTBHZVW5J1
+  navbar:
+    title: "{sms}"
+    left:
+      - text: "bio"
+        href: bio.qmd
+      - text: "cv"
+        href: cv.pdf
+      - text: "research"
+        href: research.qmd
+      - text: "tools"
+        href: https://github.com/ssmithm?tab=repositories
+      - text: "cvmedlab"
+        href: https://cvmedlab.org/
+
+    right:
+      - icon: github
+        href: https://github.com/ssmithm
+      - icon: twitter
+        href: https://twitter.com/SteveSmithUF
+      - icon: linkedin
+        href: https://www.linkedin.com/in/steven-smith-09b80659/
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Steven_Smith16/
+
+  #page-footer: "Copyright 2022, Steven M. Smith" 
+  
+format:
+  html:
+    theme: [default, custom.scss] 
+
+editor: visual
+

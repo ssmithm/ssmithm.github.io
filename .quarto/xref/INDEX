@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "91c307bb"
+  },
+  "writing.qmd": {
+    "writing.html": "0bd9e358"
+  },
+  "people.qmd": {
+    "people.html": "d9ccf53f"
+  },
+  "about.qmd": {
+    "about.html": "41790389"
+  },
+  "404.qmd": {
+    "404.html": "a136ed9d"
+  },
+  "bio.qmd": {
+    "bio.html": "04067611"
+  },
+  "labdocs/writing.qmd": {
+    "writing.html": "611a53dd"
+  },
+  "labdocs/table1.qmd": {
+    "table1.html": "43b42831"
+  },
+  "research.qmd": {
+    "research.html": "65cc28aa"
+  },
+  "tools.qmd": {
+    "tools.html": "4758ee3a"
+  },
+  "labdocs/cumulative_incidence.qmd": {
+    "cumulative_incidence.html": "ae34724a"
+  },
+  "labdocs/table1_gtsummary.qmd": {
+    "table1_gtsummary.html": "64e3adb5"
+  }
+}

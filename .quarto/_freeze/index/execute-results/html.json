@@ -1,0 +1,14 @@
+{
+  "hash": "c9b3937b3a43ef85ec58fc01f4dd1476",
+  "result": {
+    "markdown": "---\nformat: html\n---\n\n\n::: {.column-page-inset}\n# Steven M. Smith \n::: {.wrap-columns}\n::: {.columns-50}\n::: {.tight-text}\n###### Assistant Professor\n\n[Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/)  \n[Division of Cardiovascular Medicine, Department of Medicine](https://cardiology.medicine.ufl.edu/)  \n    \n###### Associate Director  \n[Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/)  \n   \n###### Member  \n[Center for Drug Evaluation and Safety (CoDES)](https://codes.pharmacy.ufl.edu/){.btn-tertiary}\n  \n  \n##### University of Florida\n:::\n:::\n\n::: {.columns-50}\n  \n![](CICMD.jpg){fig-align=\"right\"}\n:::\n:::\n:::\n\n###### Assistant Professor\n\n[Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/)\n\n[Division of Cardiovascular Medicine, Department of Medicine](https://cardiology.medicine.ufl.edu/)\n\n###### Associate Director\n\n[Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/)\n\n##### Member\n\n[Center for Drug Evaluation and Safety (CoDES)](https://codes.pharmacy.ufl.edu/){.btn-tertiary}\n\nUniversity of Florida\n\n::: column-body-outset-right\n![StevenMSmith](CICMD.jpg){fig-align=\"right\"}\n:::\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
