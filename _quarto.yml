@@ -12,7 +12,7 @@ website:
       - text: "bio"
         href: bio.qmd
       - text: "cv"
-        href: cv.pdf
+        href: cv.qmd
       - text: "research"
         href: research.qmd
       - text: "tools"
