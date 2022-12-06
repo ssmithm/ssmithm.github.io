@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs/
 
 website:
   title: "Steven M. Smith"
@@ -16,7 +17,7 @@ website:
         href: research.qmd
       - text: "tools"
         href: https://github.com/ssmithm?tab=repositories
-      - text: "cvmedlab"
+      - text: "{cvmedlab}"
         href: https://cvmedlab.org/
 
     right:
