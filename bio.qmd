@@ -12,7 +12,7 @@ execute:
 
 # [Bio]{style="color: #1E354B"}
 
-I am an Assistant Professor in the Department of Pharmaceutical Outcomes and Policy, with a joint appointment in the Division of Cardiovascular Medicine (College of Medicine). I also wear the hat of Associate Director (Population Sciences) for the UF Center for Integrative Cardiovascular and Metabolic Diseases.
+I am an Assistant Professor and Interim Chair of the [Department of Pharmaceutical Outcomes and Policy](https://pop.pharmacy.ufl.edu/), with a joint appointment in the [Division of Cardiovascular Medicine](https://cardiology.medicine.ufl.edu/) (College of Medicine). I also Co-Direct the UF [Center for Integrative Cardiovascular and Metabolic Diseases](https://cicmd.center.ufl.edu/).
 
 ::: column-margin
 ![](assets/steve_profile.jpg)
@@ -29,9 +29,9 @@ library(gt)
 
 tribble(
   ~a, ~b, ~c,
-  "Assistant Professor", "Univ. of Florida College of Pharmacy", "2014 - present",
-  "Assistant Professor", "Univ. of Florida College of Medicine", "2014 - 2016",
-  "Assistant Professor", "Univ. of Colorado School of Pharmacy", "2011 - 2014"
+  "Assistant Professor of Pharmacy", "University of Florida", "2014 - present",
+  "Assistant Professor of Medicine", "University of Florida", "2014 - 2016",
+  "Assistant Professor of Pharmacy", "University of Colorado", "2011 - 2014"
   ) |> 
   gt() |> 
   cols_label(
@@ -97,6 +97,4 @@ tribble(
 
 ## Research & Professional Focus
 
-My research is in the area of cardiovascular pharmacotherapy and hypertension and is funded by the National Heart, Lung, and Blood Institute of the National Institutes of Health. I am a member of the [American Heart Association](https://www.heart.org/), [American College of Cardiology](https://www.acc.org/), [American College of Clinical Pharmacy](https://www.accp.com/), the [American Association of Colleges of Pharmacy](https://www.aacp.org/) and the [International Society for Pharmacoepidemiology](https://www.pharmacoepi.org/). I also serves in several leadership roles nationally, including on the Examination Committee for the American Society of Hypertension Specialists' Program (ASHSP) Certified Hypertension Clinician program, in several initiatives through the American Heart Association Hypertension Council, on the Board of Directors for the [Consortium for Southeastern Healthcare Quality](https://www.cosehq.org/), and as a founding member of the [CDC's National Hypertension Control Roundtable](https://hypertensioncontrol.org/).
-
-I also co-direct the [UF Family Medicine Pharmacy Fellowship](https://ptr.pharmacy.ufl.edu/uf-family-medicine-pharmacy-fellowship/).
+My research is in the area of cardiovascular pharmacotherapy and hypertension and is funded by the National Heart, Lung, and Blood Institute of the National Institutes of Health. I am a member of the [American Heart Association](https://www.heart.org/), [American College of Cardiology](https://www.acc.org/), [American College of Clinical Pharmacy](https://www.accp.com/), the [American Association of Colleges of Pharmacy](https://www.aacp.org/) and the [International Society for Pharmacoepidemiology](https://www.pharmacoepi.org/). I also serves in several leadership roles nationally, including on the Examination Committee for the American Society of Hypertension Specialists' Program (ASHSP) Certified Hypertension Clinician program, in several initiatives through the American Heart Association Hypertension Council, and as a founding member of the [CDC's National Hypertension Control Roundtable](https://hypertensioncontrol.org/). I previously served on the Board of Directors for the [Consortium for Southeastern Healthcare Quality](https://www.cosehq.org/).
