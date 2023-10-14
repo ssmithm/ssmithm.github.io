@@ -12,23 +12,23 @@ page-layout: full
 ::: wrap-columns
 ::: columns-50
 ::: tight-text
-Principal Investigator\
+**Principal Investigator**\
 [The CVmedLab](https://cvmedlab.org/)
 
-Interim Chair\
+**Interim Chair**\
 [Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/)\
 
-Assistant Professor\
+**Assistant Professor**\
 [Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/)\
 [Division of Cardiovascular Medicine, Department of Medicine](https://cardiology.medicine.ufl.edu/)
 
-Co-Director\
+**Co-Director**\
 [Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/)
 
-Member\
+**Member**\
 [Center for Drug Evaluation and Safety (CoDES)](https://codes.pharmacy.ufl.edu/)
 
-University of Florida
+**University of Florida**
 :::
 :::
 
@@ -41,7 +41,7 @@ University of Florida
 ::: column-page-inset
 ### [Background]{style="color: #1E354B"}
 
-I am a pharmacist and epidemiologist specializing in cardiovascular medicine, especially hypertension. I obtained my PharmD in 2007 and MPH, with an emphasis in biostatistics and epidemiology in 2011, both from the University of Florida. I completed a Pharmacy Practice Residency at the NF/SG Veterans Affairs Hospital (2008) and a postdoctoral fellowship in Family Medicine at the University of Florida (2011). I started my career at the [University of Colorado](https://pharmacy.cuanschutz.edu/) in 2011 and returned to the University of Florida in 2014, where I lead the [CVmedLab](https://cvmedlab.org/) and the [Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/). I also work with an amazing group of colleagues and trainees in the [Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/).
+I am a pharmacist and epidemiologist specializing in cardiovascular medicine, especially hypertension. I obtained my PharmD in 2007 and MPH, with an emphasis in biostatistics and epidemiology in 2011, both from the University of Florida. I completed a Pharmacy Practice Residency at the NF/SG Veterans Affairs Hospital (2008) and a postdoctoral fellowship in Family Medicine at the University of Florida (2011). More recently, I completed a Certificate in Biomedical Informatics at the University of Florida (2019). I started my career at the [University of Colorado](https://pharmacy.cuanschutz.edu/) in 2011 and returned to the University of Florida in 2014, where I lead the [CVmedLab](https://cvmedlab.org/) and the [Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/). I'm fortunate to work with an amazing group of colleagues and trainees in the [Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/).
 :::
 
 ::: column-page-inset
