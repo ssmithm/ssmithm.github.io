@@ -6,12 +6,11 @@ format:
 page-layout: full
 ---
 
-::: column-page
+:::{.column-page}
 # [Steven M. Smith]{style="color: #1E354B"}
 
-::: wrap-columns
-::: columns-50
-::: tight-text
+:::{.columns}
+:::{.column width="50%"}
 **Principal Investigator**\
 [The CVmedLab](https://cvmedlab.org/)
 
@@ -30,29 +29,28 @@ page-layout: full
 
 **University of Florida**
 :::
+
+::: {.column width="50%"}
+![](assets/CICMD.jpg)
 :::
 
-::: columns-50
-![](assets/CICMD.jpg){fig-align="right"}
-:::
-:::
-:::
-
-::: column-page-inset
+::: {.column width="100%"}
 ### [Background]{style="color: #1E354B"}
 
 I am a pharmacist and epidemiologist specializing in cardiovascular medicine, especially hypertension. I obtained my PharmD in 2007 and MPH, with an emphasis in biostatistics and epidemiology in 2011, both from the University of Florida. I completed a Pharmacy Practice Residency at the NF/SG Veterans Affairs Hospital (2008) and a postdoctoral fellowship in Family Medicine at the University of Florida (2011). More recently, I completed a Certificate in Biomedical Informatics at the University of Florida (2019). I started my career at the [University of Colorado](https://pharmacy.cuanschutz.edu/) in 2011 and returned to the University of Florida in 2014, where I lead the [CVmedLab](https://cvmedlab.org/) and the [Center for Integrative Cardiovascular and Metabolic Disease](https://cicmd.center.ufl.edu/). I'm fortunate to work with an amazing group of colleagues and trainees in the [Department of Pharmaceutical Outcomes & Policy](https://pop.pharmacy.ufl.edu/).
 :::
 
-::: column-page-inset
+:::{.column width="100%"}
 Find me elsewhere, on occasion:
 
 [{{< fa brands twitter size=xl >}}](https://twitter.com/SteveSmithUF)     [{{< fa brands github size=xl >}}](https://github.com/ssmithm/)     [{{< fa brands linkedin size=xl >}}](https://www.linkedin.com/in/steven-smith-09b80659/)     [{{< ai google-scholar size=xl >}}](https://scholar.google.com/citations?user=3MKlN-EAAAAJ&hl=en)     [{{< ai pubmed size=xl >}}](https://www.ncbi.nlm.nih.gov/myncbi/steven.smith.4/bibliography/public/)     [{{< ai researchgate size=xl >}}](https://www.researchgate.net/profile/Steven_Smith16/)     [{{< ai orcid size=xl >}}](https://orcid.org/0000-0002-0201-839X)
 :::
 
-::: column-page-inset
+::: {.column width="100%"}
 ### [Contact]{style="color: #1E354B"}
 
 <a href="mailto:ssmith@cop.ufl.edu">[mail]{.material-symbols-rounded}ssmith\@cop.ufl.edu</a>\
 <a href="mailto:steve@cvmedlab.org">[mail]{.material-symbols-rounded}steve\@cvmedlab.org</a>
+:::
+:::
 :::

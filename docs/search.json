@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Steven M. Smith",
     "section": "",
-    "text": "Steven M. Smith\n\n\n\nPrincipal Investigator\nThe CVmedLab\nInterim Chair\nDepartment of Pharmaceutical Outcomes & Policy\n\nAssociate Professor\nDepartment of Pharmaceutical Outcomes & Policy\nDivision of Cardiovascular Medicine, Department of Medicine\nCo-Director\nCenter for Integrative Cardiovascular and Metabolic Disease\nMember\nCenter for Drug Evaluation and Safety (CoDES)\nUniversity of Florida\n\n\n\n\n\n\n\n\n\n\n\n\nBackground\nI am a pharmacist and epidemiologist specializing in cardiovascular medicine, especially hypertension. I obtained my PharmD in 2007 and MPH, with an emphasis in biostatistics and epidemiology in 2011, both from the University of Florida. I completed a Pharmacy Practice Residency at the NF/SG Veterans Affairs Hospital (2008) and a postdoctoral fellowship in Family Medicine at the University of Florida (2011). More recently, I completed a Certificate in Biomedical Informatics at the University of Florida (2019). I started my career at the University of Colorado in 2011 and returned to the University of Florida in 2014, where I lead the CVmedLab and the Center for Integrative Cardiovascular and Metabolic Disease. I’m fortunate to work with an amazing group of colleagues and trainees in the Department of Pharmaceutical Outcomes & Policy.\n\n\nFind me elsewhere, on occasion:\n                              \n\n\nContact\nmailssmith@cop.ufl.edu\nmailsteve@cvmedlab.org"
+    "text": "Steven M. Smith\n\n\nPrincipal Investigator\nThe CVmedLab\nInterim Chair\nDepartment of Pharmaceutical Outcomes & Policy\n\nAssociate Professor\nDepartment of Pharmaceutical Outcomes & Policy\nDivision of Cardiovascular Medicine, Department of Medicine\nCo-Director\nCenter for Integrative Cardiovascular and Metabolic Disease\nMember\nCenter for Drug Evaluation and Safety (CoDES)\nUniversity of Florida\n\n\n\n\nBackground\nI am a pharmacist and epidemiologist specializing in cardiovascular medicine, especially hypertension. I obtained my PharmD in 2007 and MPH, with an emphasis in biostatistics and epidemiology in 2011, both from the University of Florida. I completed a Pharmacy Practice Residency at the NF/SG Veterans Affairs Hospital (2008) and a postdoctoral fellowship in Family Medicine at the University of Florida (2011). More recently, I completed a Certificate in Biomedical Informatics at the University of Florida (2019). I started my career at the University of Colorado in 2011 and returned to the University of Florida in 2014, where I lead the CVmedLab and the Center for Integrative Cardiovascular and Metabolic Disease. I’m fortunate to work with an amazing group of colleagues and trainees in the Department of Pharmaceutical Outcomes & Policy.\n\n\nFind me elsewhere, on occasion:\n                              \n\n\nContact\nmailssmith@cop.ufl.edu\nmailsteve@cvmedlab.org"
   },
   {
     "objectID": "people.html",
@@ -44,7 +44,7 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Steven M. Smith",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "Curriculum Vitae"
   },
@@ -61,5 +61,12 @@
     "title": "Bio",
     "section": "",
     "text": "My research is in the area of cardiovascular pharmacotherapy and hypertension and is funded by the National Heart, Lung, and Blood Institute of the National Institutes of Health. I am a member of the American Heart Association, American College of Cardiology, American College of Clinical Pharmacy, the American Association of Colleges of Pharmacy and the International Society for Pharmacoepidemiology. I also serves in several leadership roles nationally, including on the Examination Committee for the American Society of Hypertension Specialists’ Program (ASHSP) Certified Hypertension Clinician program, in several initiatives through the American Heart Association Hypertension Council, and as a founding member of the CDC’s National Hypertension Control Roundtable. I previously served on the Board of Directors for the Consortium for Southeastern Healthcare Quality."
+  },
+  {
+    "objectID": "research.html#research",
+    "href": "research.html#research",
+    "title": "Steven M. Smith",
+    "section": "",
+    "text": "My lab is focused on studying adverse cardiovascular effects of common chronic diseases (hypertension, type 2 diabetes, thromboembolic disorders) and optimizing drug therapy to minimize risks of these diseases.\nA major focus is on adverse effects of chronic uncontrolled blood pressure (hypertension) and ways to optimize antihypertensive drug therapy to mitigate these adverse effects. I have particular expertise in the area of treatment-resistant hypertension.\n\n\n\nMy research spans population and clinical sciences related to cardiovascular disease and its treatment. This includes both observational research, as well as clinical trial work, primarily through my collaboration with colleagues in the Division of Cardiovascular Medicine.\nI am also interested in research on methods for optimizing use of electronic health record (EHR) data in comparative effectiveness research, including how to minimize misclassification when measuring longitudinal drug exposure from EHR prescribing data, and methods for dealing with missingness in EHR data and biases associated with missing data.\n\n\n\nCurrent projects and funding for my lab can be found at the CVmedLab website.\n\n\n\nA complete list of my lab’s journal publications can be found on PubMed or Google Scholar. Newer publications are also available via ORCID. If you do not have access to a particular journal, please email me for an author’s print."
   }
 ]
