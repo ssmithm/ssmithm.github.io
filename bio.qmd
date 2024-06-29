@@ -12,7 +12,7 @@ execute:
 
 # [Bio]{style="color: #1E354B"}
 
-I am an Assistant Professor and Interim Chair of the [Department of Pharmaceutical Outcomes and Policy](https://pop.pharmacy.ufl.edu/), with a joint appointment in the [Division of Cardiovascular Medicine](https://cardiology.medicine.ufl.edu/) (College of Medicine). I also Co-Direct the UF [Center for Integrative Cardiovascular and Metabolic Diseases](https://cicmd.center.ufl.edu/).
+I am an Associate Professor and Interim Chair of the [Department of Pharmaceutical Outcomes and Policy](https://pop.pharmacy.ufl.edu/), with a joint appointment in the [Division of Cardiovascular Medicine](https://cardiology.medicine.ufl.edu/) (College of Medicine). I also Co-Direct the UF [Center for Integrative Cardiovascular and Metabolic Diseases](https://cicmd.center.ufl.edu/).
 
 ::: column-margin
 ![](assets/steve_profile.jpg)
