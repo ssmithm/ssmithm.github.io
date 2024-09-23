@@ -29,12 +29,19 @@ library(gt)
 
 tribble(
   ~a, ~b, ~c,
-  "Associate Professor of Pharmacy", "University of Florida", "2024 - present",
-  "Assistant Professor of Pharmacy", "University of Florida", "2014 - 2024",
-  "Assistant Professor of Medicine", "University of Florida", "2014 - 2016",
+  "Chair, Pharmaceutical Outcomes & Policy", "University of Florida", "2024 - present",
+  "Associate Professor of Pharmacy (tenured)", "University of Florida", "2024 - present",
+  "Assistant Professor of Pharmacy", "University of Florida", "2016 - 2024",
+  "Clinical Assistant Professor of Pharmacy", "University of Florida", "2014 - 2016",
+  "Clinical Assistant Professor of Medicine", "University of Florida", "2014 - 2016",
   "Assistant Professor of Pharmacy", "University of Colorado", "2011 - 2014"
   ) |> 
   gt() |> 
+  cols_width(
+    a ~ px(230),
+    b ~ px(100),
+    c ~ px(50)
+  ) |> 
   cols_label(
     a = md("**Position**"),
     b = md("**Institution**"),
@@ -82,9 +89,13 @@ tribble(
   "Univ. of Florida (Gainesville, FL)", "Postdoctoral Fellowship, Family Medicine Research", "2008 - 2011",
   "Veterans Affairs (Gainesville, FL)", "PGY-1 Hospital Residency", "2007 - 2008"
   ) |> 
-  #group_by(a) |> 
   gt() |> 
   cols_move_to_start(b) |> 
+  cols_width(
+    a ~ px(100),
+    b ~ px(230),
+    c ~ px(50)
+  ) |> 
   cols_label(
     a = md("**Location**"),
     b = md("**Training Program**"),
